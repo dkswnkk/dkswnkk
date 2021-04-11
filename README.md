@@ -3,8 +3,6 @@
 
 <h4> Hello World!🌐<h4>
 
-<!-- 업데이트>
-
 
 
  ![dkswnzz's github stats](https://github-readme-stats.vercel.app/api?username=dkswnzz&show_icons=true)
