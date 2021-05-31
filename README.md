@@ -8,8 +8,8 @@
 
 
 
- ![dkswnzz's github stats](https://github-readme-stats.vercel.app/api?username=dkswnzz&show_icons=true)<br>
- 
+ ![dkswnzz's github stats](https://github-readme-stats.vercel.app/api?username=dkswnzz&show_icons=true) &nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkswnzz)](https://github.com/dkswnzz/github-readme-stats)<br>
 
 
 <h4 align="left"><b>사용언어</b></h4>
