@@ -1,2 +1,3 @@
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
+<p align="center">
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</p>
