@@ -14,9 +14,13 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest    
         with:
+          token: ${{ secrets.METRICS_TOKEN 
+      - uses: lowlighter/metrics@latest    
+        with:
           token: ${{ secrets.METRICS_TOKEN }}
-          base: bottom,repositories
+          base: ""
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
        
