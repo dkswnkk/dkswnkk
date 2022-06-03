@@ -3,7 +3,7 @@
 ### Hello, I'm Juhyeong Ahn!
 - 🇰🇷 I’m a Back-end developer from South Korea.
 - 🌱 I'm currently learning Spring Framework.
-- 🔭 I’m currently studying on [Dong-A Univ](https://computer.donga.ac.kr/sites/computer/index.do) as a graduate.
+- 🔭 I’m currently studying on [Dong-A Univ](https://computer.donga.ac.kr/sites/computer/index.do) as a student.
 - 📝 I regularly write articles on [my blog](https://dkswnkk.tistory.com/).  
 - My Resume is here! 👉 [RESUME](https://big-marjoram-ffc.notion.site/4179a4f44b2e4789b280720cb13b21fc)
 - My Email is here! 👉  dkswnkk.dev@gmail.com
