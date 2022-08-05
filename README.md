@@ -10,6 +10,7 @@
 
 ## Skill
 <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp;
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&for-the-badge&logo=amazon-aws&logoColor=white)](https://chloe-codes1.gitbook.io/til/aws)&nbsp;
