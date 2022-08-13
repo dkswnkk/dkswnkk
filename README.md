@@ -3,7 +3,7 @@
 ### Hello, I'm Juhyeong Ahn!
 - 🇰🇷 I’m a Back-end developer from South Korea.
 - 🌱 I'm currently learning Spring Framework.
-- 🔭 I am currently working as an intern at [SK C&C](https://www.skcc.co.kr/)
+- 🔭 I am currently studying at [Dong-A University](https://computer.donga.ac.kr/sites/computer/index.do) as a student.
 - 📝 I regularly write articles on [my blog](https://dkswnkk.tistory.com/).  
 - My Resume is here! 👉 [RESUME](https://big-marjoram-ffc.notion.site/4179a4f44b2e4789b280720cb13b21fc)
 - My Email is here! 👉  dkswnkk.dev@gmail.com
@@ -15,7 +15,11 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp;
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&for-the-badge&logo=amazon-aws&logoColor=white)](https://chloe-codes1.gitbook.io/til/aws)&nbsp;
 
+## Experience
+SK C&C - Software Engineer (Jul 2022 ~ Aug 2022)
+
 ## Summary
 <p align ="left">
 <img align="center" src="/github-metrics-dkswnkk-main.svg" alt="Metrics" width="500">
 </p>
+
