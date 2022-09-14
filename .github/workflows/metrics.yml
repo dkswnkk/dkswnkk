@@ -31,4 +31,10 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          
+      - name: Update github-metrics
+        run: |
+          git config user.name dkswnkk
+          git config user.email dkswnkk.dev@gmail.com
+          git add -A .
+          git commit -m "Update github-metrics-dkswnkk.svg"
+          git push
