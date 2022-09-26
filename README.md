@@ -3,10 +3,11 @@
 ### Hello, I'm Juhyeong Ahn!
 - 🇰🇷 I’m a Back-end developer from South Korea.
 - 🌱 I'm currently learning Spring Framework and DevOps.
-- 🔭 I am currently studying at [Dong-A University](https://computer.donga.ac.kr/sites/computer/index.do) as a student.
-- 📝 I regularly write articles on [my blog](https://dkswnkk.tistory.com/).  
+- 📝 I regularly write articles on [MY BLOG](https://dkswnkk.tistory.com/).  
 - My Email is here! 👉  dkswnkk.dev@gmail.com
-<!-- - My Resume is here! 👉 [RESUME](https://big-marjoram-ffc.notion.site/4179a4f44b2e4789b280720cb13b21fc) -->
+- My Resume is here! 👉 [RESUME](https://big-marjoram-ffc.notion.site/4179a4f44b2e4789b280720cb13b21fc) 
+<!-- 🔭 I am currently studying at [Dong-A University](https://computer.donga.ac.kr/sites/computer/index.do) as a student. -->
+
 ## Skill
 <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp;
