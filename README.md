@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning Back-end and DevOps.
 - 📝 I regularly write articles on [MY BLOG](https://dkswnkk.tistory.com/).  
 - My Email is here! 👉  dkswnkk.dev@gmail.com
-- My Resume is here! 👉 [RESUME](https://big-marjoram-ffc.notion.site/4179a4f44b2e4789b280720cb13b21fc) 
+<!--  My Resume is here! 👉 [RESUME](https://big-marjoram-ffc.notion.site/4179a4f44b2e4789b280720cb13b21fc) -->
 <!-- 🔭 I am currently studying at [Dong-A University](https://computer.donga.ac.kr/sites/computer/index.do) as a student. -->
 
 ## Skill
