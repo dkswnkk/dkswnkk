@@ -1,6 +1,7 @@
 ## README
 
 ### Hello, I'm Juhyeong Ahn!
+- 끊임없이 성장하고 싶은 개발자 안주형입니다. 😀
 - 🇰🇷 I’m a Back-end developer from South Korea.
 - 🌱 I'm currently learning Back-end and DevOps.
 - 📝 I regularly write articles on [MY BLOG](https://dkswnkk.tistory.com/).  
