@@ -17,7 +17,7 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&for-the-badge&logo=amazon-aws&logoColor=white)](https://chloe-codes1.gitbook.io/til/aws)&nbsp;
 
 ## Experience
-[SK C&C - Software Engineer (Jul 2022 ~ Aug 2022)](https://dkswnkk.tistory.com/567?category=565561)
+SK C&C - Software Engineer (Intern, Jul 2022 ~ Aug 2022)
 
 ## Summary
 <p align ="left">
