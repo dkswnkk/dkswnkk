@@ -16,12 +16,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&for-the-badge&logo=amazon-aws&logoColor=white)](https://chloe-codes1.gitbook.io/til/aws)&nbsp;
 
-## Experience
-SK C&C - Software Engineer (Jul 2022 ~ Aug 2022)
-
-## Certificates
-[CLOUD EXPO KOREA 2022 Conference Education](https://drive.google.com/file/d/1p5i6NESbfigP7ZPahpsBucmZX9wiwiNY/view?usp=share_link)
-
 ## Summary
 <p align ="left">
 <img align="center" src="/github-metrics-dkswnkk-main.svg" alt="Metrics" width="500">
