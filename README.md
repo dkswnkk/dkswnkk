@@ -3,8 +3,8 @@
 ### Hello, I'm Juhyeong Ahn!
 - 끊임없이 성장하고 싶은 개발자 안주형입니다. 😀
 - My Resume is here! 👉 [RESUME](https://dkswnkk.notion.site/ed6810fe1b584607a98bf7d59cc45480)
-- 🌱 I'm currently learning Back-end and DevOps.
-- 📝 I regularly write articles on [MY BLOG](https://dkswnkk.tistory.com/).  
+- 🌱 I'm currently learning Back-end and DevOps
+- 📝 I regularly write articles on [MY BLOG](https://dkswnkk.tistory.com/)
 - My Email is here! 👉  dkswnkk.dev@gmail.com
 <!-- 🔭 I am currently studying at [Dong-A University](https://computer.donga.ac.kr/sites/computer/index.do) as a student. -->
 
@@ -15,9 +15,4 @@
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&for-the-badge&logo=amazon-aws&logoColor=white)](https://chloe-codes1.gitbook.io/til/aws)&nbsp;
-
-## Summary
-<p align ="left">
-<img align="center" src="/github-metrics-dkswnkk-main.svg" alt="Metrics" width="500">
-</p>
 
