@@ -1,7 +1,6 @@
 ## README
 
-### Hello, I'm Juhyeong Ahn!
-- 끊임없이 성장하고 싶은 개발자 안주형입니다. 😀
+#### 끊임없이 성장하고 싶은 개발자 안주형입니다. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22">
 - My Resume is here! 👉 [RESUME](https://dkswnkk.notion.site/ed6810fe1b584607a98bf7d59cc45480)
 - 🌱 I'm currently learning Back-end and DevOps
 - 📝 I regularly write articles on [MY BLOG](https://dkswnkk.tistory.com/)
