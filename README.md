@@ -14,8 +14,3 @@
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&for-the-badge&logo=amazon-aws&logoColor=white)](https://chloe-codes1.gitbook.io/til/aws)&nbsp;
-
-## Experience
-[MidasIn - Backend Engineer (2023.01 ~ )](https://dkswnkk.tistory.com/678) <br>
-[SK C&C - Software Engineer (2022.07 ~ 2022.08)](https://dkswnkk.tistory.com/567)
-
