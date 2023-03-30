@@ -18,9 +18,3 @@
 ## EXPERIENCE
 - **MIDAS IT** - Backend Developer *(Jan 2023 ~ PRESENT)*<br>
 - **SK C&C** - Software Engineer *(Jul 2022 ~ Aug 2022)*<br>
-
-## MEMORIS
-- [2023/02/18 - 입사 첫 스프린트 회고](https://dkswnkk.tistory.com/689)<br>
-- [2023/01/27 - 2022년 회고](https://dkswnkk.tistory.com/686)<br>
-- [2022/12/05 - 넘블 회고록](https://dkswnkk.tistory.com/676)<br>
-
