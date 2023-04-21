@@ -16,6 +16,7 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&for-the-badge&logo=amazon-aws&logoColor=white)](https://chloe-codes1.gitbook.io/til/aws)&nbsp;
  -->
 ## EXPERIENCE
-- **DEPROMEET 13th** - Server *(April 2023 ~ PRESENT)*<br>
+- **NEXT STEP**  - Clean Code with Java 16th *(April 2023 ~ Jun 2023)*<br>
+- **DEPROMEET** - Server 13th *(April 2023 ~ PRESENT)*<br>
 - **MIDAS IT** - Backend Developer *(Jan 2023 ~ PRESENT)*<br>
 - **SK C&C** - Software Engineer *(Jul 2022 ~ Aug 2022)*<br>
