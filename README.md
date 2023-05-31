@@ -1,7 +1,7 @@
 ## README
 
 #### 주니어 백엔드 개발자 안주형입니다. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22">
-- My Resume is here! 👉 [RESUME](https://www.linkedin.com/in/%EC%A3%BC%ED%98%95-%EC%95%88-794b4026b/)
+- My Resume is here! 👉 [RESUME](https://www.linkedin.com/in/dkswnkk/)
 - 🌱 I'm currently learning Back-end and DevOps
 - 📝 I regularly write articles on [MY BLOG](https://dkswnkk.tistory.com/)
 - My Email is here! 👉  dkswnkk.dev@gmail.com
