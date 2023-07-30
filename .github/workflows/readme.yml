@@ -6,7 +6,8 @@ name: Python application
 on:
   schedule:
     - cron: "0 0 */1 * *"
-
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
   build:
 
@@ -24,7 +25,7 @@ jobs:
           pip install feedparser
       - name: Run Update Python Script
         run: |
-          python main.py
+          python readme.py
       - name: Update README.md file
         run: |
           git pull

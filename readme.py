@@ -13,7 +13,7 @@ markdown_text = """
 - 📝 I regularly write articles on [MY BLOG](https://dkswnkk.tistory.com/)
 - My Email is here! 👉  dkswnkk.dev@gmail.com
 
-## 📖 Articles
+### 📖 Articles
 
 """ # list of blog posts will be appended here
 for idx, feed in enumerate(RSS_FEED['entries']):
