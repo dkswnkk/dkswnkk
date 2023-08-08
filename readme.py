@@ -17,7 +17,7 @@ markdown_text = """
 
 """ # list of blog posts will be appended here
 for idx, feed in enumerate(RSS_FEED['entries']):
-    if idx > MAX_POST:
+    if idx >= MAX_POST:
         break
     else:
         tags = feed['tags'][0]['term']
