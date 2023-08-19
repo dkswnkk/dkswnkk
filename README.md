@@ -9,7 +9,7 @@
 
 ### 📖 Articles
 
-- [2023/08/18 - 실무에 Redisson을 연결하면서 겪은 문제점들](https://dkswnkk.tistory.com/711) <br/>
+- [2023/08/18 - 실무에서 Redisson을 연결하면서 겪은 문제점들](https://dkswnkk.tistory.com/711) <br/>
 - [2023/08/10 - Java에서 assert와 exception](https://dkswnkk.tistory.com/710) <br/>
 - [2023/08/07 - Spring Data Redis의 @Indexed 사용 시 주의점](https://dkswnkk.tistory.com/709) <br/>
 - [2023/08/03 - WebClient에서 에러 처리와 재시도하는 방법](https://dkswnkk.tistory.com/708) <br/>
