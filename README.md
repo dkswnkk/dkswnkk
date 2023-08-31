@@ -13,4 +13,3 @@
 - [2023/08/10 - Java에서 assert와 exception](https://dkswnkk.tistory.com/710) <br/>
 - [2023/08/07 - Spring Data Redis의 @Indexed 사용 시 주의점](https://dkswnkk.tistory.com/709) <br/>
 - [2023/08/03 - WebClient에서 에러 처리와 재시도하는 방법](https://dkswnkk.tistory.com/708) <br/>
-- [2023/07/28 - Spring Batch란? 간단한 개념과 코드 살펴보기](https://dkswnkk.tistory.com/707) <br/>
