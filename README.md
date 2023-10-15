@@ -9,8 +9,8 @@
 
 ### 📖 Articles
 
+- [2023/10/14 - TestContainer로 통합 테스트 환경 구축하기](https://dkswnkk.tistory.com/719) <br/>
 - [2023/10/07 - [MySQL] MVCC를 통한 잠금없는 읽기](https://dkswnkk.tistory.com/718) <br/>
 - [2023/10/05 - [MySQL] 사용자 생성 및 권한 부여 방법](https://dkswnkk.tistory.com/717) <br/>
 - [2023/09/30 - [JVM 매개변수] InitialRAMPercentage, MinRAMPercentage, MaxRAMPercentage](https://dkswnkk.tistory.com/716) <br/>
 - [2023/09/21 - [GA] UTM으로 유입 경로 추적하기](https://dkswnkk.tistory.com/715) <br/>
-- [2023/09/17 - MySQL에서 VARCHAR와 TEXT의 차이](https://dkswnkk.tistory.com/714) <br/>
