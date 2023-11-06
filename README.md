@@ -9,8 +9,8 @@
 
 ### 📖 Articles
 
+- [2023/11/05 - [Docker MySQL] Orchestrator를 이용한 High Availability(HA) 구축하기](https://dkswnkk.tistory.com/727) <br/>
 - [2023/10/31 - [Docker MySQL] Master-Slave Replication(복제) 구축하기](https://dkswnkk.tistory.com/725) <br/>
 - [2023/10/28 - ArchUnit으로 아키텍처 검사하기](https://dkswnkk.tistory.com/724) <br/>
 - [2023/10/25 - 504 Gateway TimeOut시 호출된 로직은?](https://dkswnkk.tistory.com/722) <br/>
 - [2023/10/22 - LocalStack을 활용한 AWS S3 테스트 환경 구축하기](https://dkswnkk.tistory.com/720) <br/>
-- [2023/10/14 - TestContainer로 통합 테스트 환경 구축하기](https://dkswnkk.tistory.com/719) <br/>
