@@ -1,7 +1,7 @@
 
 ## README
 
-- My Resume is here! 👉 [RESUME](null)
+- My Resume is here! 👉 [RESUME](https://www.rallit.com/resumes/12076@dkswnkk.dev/%EC%95%88%EC%A3%BC%ED%98%95)
 - 🌱 I'm currently learning Back-end and DevOps
 - 📝 I regularly write articles on [MY BLOG](https://dkswnkk.tistory.com/)
 - My Email is here! 👉  dkswnkk.dev@gmail.com
