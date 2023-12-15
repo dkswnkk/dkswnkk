@@ -10,6 +10,6 @@
 
 - [2023/12/11 - [Java] CompletableFuture로 비동기 및 병렬 처리하기](https://dkswnkk.tistory.com/733) <br/>
 - [2023/12/03 - Bucket4j로 트래픽 제한하기(Redis & MariaDB)](https://dkswnkk.tistory.com/732) <br/>
-- [2023/11/23 - 다중 인스턴스 환경에서 단일 스케줄러 동작 보장하기 - ShedLock](https://dkswnkk.tistory.com/731) <br/>
+- [2023/11/23 - ShedLock으로 다중 인스턴스 환경에서 단일 스케줄러 동작 보장하기](https://dkswnkk.tistory.com/731) <br/>
 - [2023/11/15 - default method로 JpaRepository 좀 더 우아하게 써보기](https://dkswnkk.tistory.com/730) <br/>
 - [2023/11/12 - [Docker MySQL] Proxy Layer 구축하기](https://dkswnkk.tistory.com/729) <br/>
