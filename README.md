@@ -2,7 +2,7 @@
 ## README
 
 - My Resume is here! 👉 [RESUME](https://www.linkedin.com/in/dkswnkk/)
-- 🌱 I'm currently learning Back-end and DevOps
+- 🌱 I’m currently working as Backend Engineer at [MIDAS](https://www.midasit.com/)
 - 📝 I regularly write articles on [MY BLOG](https://dkswnkk.tistory.com/)
 - My Email is here! 👉  dkswnkk.dev@gmail.com
 
