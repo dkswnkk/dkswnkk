@@ -14,3 +14,4 @@
 - [2024/03/24 - 아키텍처 관점에서 늘어나는 트래픽 대응하기](https://dkswnkk.tistory.com/747) <br/>
 - [2024/03/19 - 내가 쓰는 IntelliJ 유용한 기능들](https://dkswnkk.tistory.com/746) <br/>
 
+<a href="https://www.credly.com/badges/b40e6910-7eda-42bd-a804-edd8f6709abd/public_url"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110"/></a>
