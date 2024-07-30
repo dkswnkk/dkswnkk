@@ -1,7 +1,7 @@
 
 ## README
 
-- My Resume is here! 👉 [LINKEDIN](https://www.linkedin.com/in/dkswnkk/)
+- My Resume is here! 👉 [LINKED IN](https://www.linkedin.com/in/dkswnkk/)
 - 📝 I regularly write articles on [MY BLOG](https://dkswnkk.tistory.com/)
 - My Email is here! 👉  dkswnkk.dev@gmail.com
 
